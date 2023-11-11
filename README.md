@@ -9,5 +9,5 @@ INSTALL:
 
 
 
-错误/BUG:3256505404@qq.com 
-有偿付费指导:3256505404@qq.com 
+错误/BUG:trust-server@protonmail.com
+有偿付费指导:trust-server@protonmail.com
